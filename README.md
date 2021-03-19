@@ -1,6 +1,4 @@
-# Covid Deaths by Race Python Script 
-# Assignment Artificial Intelligence and Machine Learning
-# Luisa Gonzalez 
+# Covid Deaths by Race Python Script - Assignment Artificial Intelligence and Machine Learning
 
 # Last year (2020), the COVID-19 pandemic started. People have had to face the death of many around the world because of the virus. The United States is a country that is full of people from different backgrounds. Non-Hispanic White, Black, American Indian or Alaska Native, Asian, Native Hawaiian, Pacific Islander or Hispanic people. It is well known that some races have been more affected by the virus in the last year. Some factors increase the probability of people getting infected by the virus; Some examples:  Work type, community, or lifestyle. Factors that we may say are related to race. 
 
